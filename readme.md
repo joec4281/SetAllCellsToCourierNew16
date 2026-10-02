@@ -26,7 +26,8 @@ This LibreOffice macro applies Courier New, 16 pt to all cells in the current Ca
     'Apply the font and size
     cursor.CharFontName = "Courier New"
     cursor.CharHeight = 16
-```End Sub
+End Sub
+```
 
 **Install the macro**
 * Open a spreadsheet in Calc.
